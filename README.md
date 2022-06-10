@@ -4,8 +4,8 @@ With the change in technology, the accuracy of detectors has gradually improved.
 ## Code Instruction
 The project was developed with Google Colab due to the poor performance of the developer's local GPU. The model_test_0530.ipynb is the development code of this project. The capstone_main.ipynb, load_data.py and model.py are split packages based on development code. The development code can be used directly in Google Colab. The split packages can be used in local after setting local environment.
 ## Environment
-tensorflow
-tensorflow_addons 
-tensorflow_probability
-matplotlib
-astropy
+tensorflow  
+tensorflow_addons   
+tensorflow_probability  
+matplotlib  
+astropy  
