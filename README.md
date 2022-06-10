@@ -9,3 +9,8 @@ tensorflow_addons
 tensorflow_probability  
 matplotlib  
 astropy  
+## Model Link
+This is a model that has been trained. The prediction results of the model are consistent with those on the paper.   
+[Model Link](https://drive.google.com/file/d/1yfJfEPf9LQ8wbJEXbo8xzHiNFbyqUkiM/view?usp=sharing)
+## Dataset
+[Dataset Link](https://drive.google.com/file/d/18cN3ilMD4jNkHnUaLEscFKm30TSk71MD/view?usp=sharing)This is the dataset.
